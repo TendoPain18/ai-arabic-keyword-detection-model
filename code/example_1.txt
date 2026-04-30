@@ -1,0 +1,11 @@
+error 1 not detected with 0.054039567708969116
+error 1 not detected with 0.003363482654094696
+error 1 not detected with 0.39372608065605164
+error 1 not detected with 0.09151113033294678
+error 1 not detected with 0.3332659602165222
+error 1 not detected with 0.23129019141197205
+error 1 not detected with 0.26888734102249146
+error 1 not detected with 0.21825465559959412
+error 1 not detected with 0.12893378734588623
+min_1: 0.003363482654094696
+max_1: 1.0
